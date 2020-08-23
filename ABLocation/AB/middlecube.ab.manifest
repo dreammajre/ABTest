@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 694845569
+CRC: 2725053089
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: beda2c8bdc51c7b034cd55262208c9f5
+    Hash: ce4349387f02246f5ea9a63ffabe6d58
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 111bbdbfa04cb44e3af81a3c8b56cb70
+    Hash: 8f40dda791caeb85ec68635dfd3a9593
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -21,10 +21,9 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 43
   Script: {instanceID: 0}
-- Class: 48
-  Script: {instanceID: 0}
 - Class: 65
   Script: {instanceID: 0}
 Assets:
 - Assets/AB_Resourses/Prefab/Middle/Cube.prefab
-Dependencies: []
+Dependencies:
+- /Users/jre/Documents/BJMJ_2/Project/ABLoader/Assets/StreamingAssets/AB/materkk.ab

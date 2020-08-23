@@ -1,10 +1,15 @@
 ManifestFileVersion: 0
-CRC: 673833585
+CRC: 3512564732
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
-      Name: middle.ab
+      Name: materkk.ab
       Dependencies: {}
     Info_1:
-      Name: start.ab
-      Dependencies: {}
+      Name: middlecube.ab
+      Dependencies:
+        Dependency_0: materkk.ab
+    Info_2:
+      Name: startsphere.ab
+      Dependencies:
+        Dependency_0: materkk.ab
